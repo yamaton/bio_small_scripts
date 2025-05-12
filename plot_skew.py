@@ -1,6 +1,12 @@
-#!/usr/bin/env python
-# coding: utf-8
-
+#!/usr/bin/env -S uv run
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "biopython",
+#     "pandas",
+#     "matplotlib",
+# ]
+# ///
 
 import sys
 import os
